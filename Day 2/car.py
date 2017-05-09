@@ -28,7 +28,7 @@ def Car(self):
 							else:
 								pass
 
-								if self.name=='Mercedes':
+								if self.name=='Mercedes': #If the car is named Mercedes it movrd at ten times the moving speed
 									self.speed = 10**moving_speed
 								else:
 									pass
