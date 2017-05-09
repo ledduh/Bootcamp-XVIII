@@ -10,7 +10,7 @@ def Car(self):
 		else:
 			self.num_of_doors = 4 #Other cars have four doors
 
-			if self.car_type =='trailer': #if the car type is trailer it has 8 wheels
+			if self.car_type =='trailer': #if the car type is a trailer it has 8 wheels
 				self.num_of_wheels = 8
 			else:
 				self.num_of_wheels = 4 #other car types have 4 wheels
