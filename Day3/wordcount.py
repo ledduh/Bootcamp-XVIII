@@ -1,7 +1,7 @@
 #Function words is defined
 def words(sentence):
   '''
-  myword_list is given the calue sentence.split which splits the sentence
+  myword_list is given the value sentence.split which splits the sentence
   '''
   myword_list = sentence.split()
   newlist=[]
@@ -13,7 +13,7 @@ def words(sentence):
       newlist.append(word)
     else:
       '''
-      if the input is not an integer the input is still updated to the list as it is
+      if the input is not an integer the input is still updated to the list as it is.
       '''
       newlist.append(word)
   
