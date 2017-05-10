@@ -14,7 +14,7 @@ def find_max_min(numbers):
   	else:
   	
   	#if the maximum and minimum numbers are nnot equal it updates
-	#list with the maximum and minimum number then returns the updated list
+	#list with the maximum and minimum number then returns the updated list.
 	
     
 
