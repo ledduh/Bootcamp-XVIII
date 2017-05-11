@@ -69,7 +69,7 @@ class ListComprehensionTest(unittest.TestCase):
 class BinarySearchTest(unittest.TestCase):
 
     """Get the index of the item with an expected number of loops in\
-     array [1, 2 . . . 20]
+     array [1, 2 . . . 20].
        Returns a dictionary containing {count: value, index: value}
     """
 
