@@ -7,7 +7,7 @@ class BinarySearch(list):
     lst = [x for x in range (b, a+1, b)]
     self.length = len(lst)
   '''
-  A function search checks for items in a list
+  A function search checks for items in a list.
   '''  
   def search(self,x):
     mylist = self.lst
