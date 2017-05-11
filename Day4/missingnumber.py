@@ -5,7 +5,7 @@ def find_missing(lst_a, lst_b):
 
   result = list(a-b)
   
-  #The number which is missing is displayed in the list
+  #The number which is missing is displayed in the list.
   if result == []:
     return 0
   else:
