@@ -1,7 +1,7 @@
 import unittest
 from missingnumber import find_missing
 class MissingNumberTest(unittest.TestCase):
-    """docstring for MissingNumberTest"""
+    """docstring for MissingNumberTest."""
 
     def test_empty_list(self):
         self.assertEqual(0, find_missing([], []),
